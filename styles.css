@@ -41,7 +41,7 @@ main {
   padding: 1.25rem;
   border-radius: 20px;
   background: #f582ae;
-  color: white;
+  color: #2b2c34;
   font-size: 1.25rem;
   font-weight: 700;
   text-decoration: none;
@@ -49,7 +49,7 @@ main {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.game-card:nth-child(5n+2) { background: #8bd3dd; }
+.game-card:nth-child(5n+2) { background: #8bd3dd; color: #2b2c34; }
 .game-card:nth-child(5n+3) { background: #b8f2e6; color: #2b2c34; }
 .game-card:nth-child(5n+4) { background: #fcd5ce; color: #2b2c34; }
 .game-card:nth-child(5n+5) { background: #f3d2c1; color: #2b2c34; }
