@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cars Clash",
+    "file": "cars_clash.html"
+  },
+  {
+    "title": "Catch The Apples",
+    "file": "catch_the_apples.html"
+  },
+  {
     "title": "Guess the Number",
     "file": "example-game.html"
   }
